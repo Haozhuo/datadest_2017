@@ -1,0 +1,3 @@
+This project is for DtaFest UCLA 2017. Our team become the finalist out of 66 teams and won honorable mention for Best Use of External Data.
+The map represents Expedia users in USA and their travelling between different cities in USA. The size of node represents the number of users and the edges represents the traffic between cities.
+We also did a user segmentation using K-mean.
